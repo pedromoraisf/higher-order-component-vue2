@@ -8,7 +8,6 @@ const HoC = ({ component, name, fetch }) => {
         props: {
           receivedData: this.receivedData
         },
-        methods: fetch(chatConversationPresentation),
         on: { ...this.$listeners }
       });
     },

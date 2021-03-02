@@ -1,24 +1,9 @@
-# code
+# Higher-Order Component no Vue.js 2
 
-## Project setup
-```
-yarn install
-```
+### 🧐 Disclaimer
+Veja a publicação onde este repositório é utilizado de exemplo [clicando aqui](https://pedromoraisf.medium.com/definindo-limites-da-presentation-e-visualization-layer-com-hoc-no-vue-js-2-dd834e5f9b0a).
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+![thumbnail](./md/pexels-rafael-cerqueira-4737484.jpg)
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 👨🏽‍💻 Author
+Pedro Morais [@pedromoraisf](https://pedromoraisf.medium.com).
